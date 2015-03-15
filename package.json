@@ -1,0 +1,27 @@
+{
+  "name": "hubot-askmona",
+  "version": "1.0.0",
+  "description": "Hubot adapter for AskMona",
+  "main": ".src/askmona",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "request": "^2.53.0",
+    "colors": "^1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sei0o/hubot-askmona.git"
+  },
+  "keywords": [
+    "hubot",
+    "askmona"
+  ],
+  "author": "sei0o",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/sei0o/hubot-askmona/issues"
+  },
+  "homepage": "https://github.com/sei0o/hubot-askmona"
+}
