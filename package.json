@@ -1,8 +1,8 @@
 {
   "name": "hubot-askmona",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hubot adapter for AskMona",
-  "main": ".src/askmona",
+  "main": "./src/askmona",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

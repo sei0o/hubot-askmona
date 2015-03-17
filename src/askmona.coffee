@@ -136,7 +136,7 @@ class AskMonaStreaming extends EventEmitter
           self.robot.brain.set "topic_last_resp_id", self.topic_last_resp_id
           
           self.emit "response", data.responses
-    , 1000
+    , 5000
     
   generateNonce: (length) ->
     return "" if length <= 0
